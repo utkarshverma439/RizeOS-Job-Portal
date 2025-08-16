@@ -111,8 +111,8 @@ VITE_API_URL=http://localhost:4000
 Clone repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/rizeos-full-pro-with-hardhat.git
-cd rizeos-full-pro-with-hardhat
+git clone https://github.com/utkarshverma439/RizeOS-Job-Portal.git
+cd rizeos-job-portal
 ```
 
 **Contracts (Hardhat):**
