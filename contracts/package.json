@@ -1,0 +1,12 @@
+{
+  "name": "rizeos-contracts",
+  "version": "1.0.0",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.16.0",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
